@@ -1,4 +1,12 @@
 HALLO HALLO HELLO
+<<<<<<< HEAD
 HELLo SAD
 
 julieann Albarando
+=======
+<<<<<<< HEAD
+me me me
+=======
+HELLo SAD
+>>>>>>> 6e1bff53f971f594c9489815926970ab9a9aa59a
+>>>>>>> e8a02108759c9ef4ff9cbfd3fceaa1926c5723fd
