@@ -1,2 +1,6 @@
 HALLO HALLO HELLO
+<<<<<<< HEAD
 me me me
+=======
+HELLo SAD
+>>>>>>> 6e1bff53f971f594c9489815926970ab9a9aa59a
